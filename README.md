@@ -1,30 +1,19 @@
-# This is a large heading
+# Megan Lynch
 
-## This is a smaller heading
+## Post doc at Hopkins
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Interests
 
-- This is
-- an unordered
-- list
+*I am a statistical geneticist and I study genomics of aging and frailty.*
 
-1. This is
-2. an ordered
-3. list
+### Family
+My two dogs are named **Winston** and **Zoro**.
 
-Here is `some code` in the middle of a sentence.
+### hobbies
+My hobbies include:
+- Weight lifting
+- Running
+- Reading
+- Cooking
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](.jpg)
-
-nano README.md
+You can find me [on linkedin](https://www.linkedin.com/in/megan-lynch-61601277/).
