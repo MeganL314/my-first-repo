@@ -2,14 +2,12 @@
 
 ## Post doc at Hopkins
 
-### Interests
-
 *I am a statistical geneticist and I study genomics of aging and frailty.*
 
 ### Family
 My two dogs are named **Winston** and **Zoro**.
 
-### hobbies
+### Hobbies
 My hobbies include:
 - Weight lifting
 - Running
